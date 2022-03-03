@@ -1,0 +1,13 @@
+__pycache__
+*.swp
+.vscode
+.lh
+test.py
+
+build/
+*.egg-info
+
+.tox/
+
+.antlr
+dist/
